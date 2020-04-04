@@ -1,0 +1,77 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: left;
+}
+p {
+  text-indent: 25px;
+  text-align: justify;
+}
+div {
+  text-indent: 25px;
+  text-align: justify;
+}
+.first_autobiography_paragraph {
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  color: red;
+}
+.second_autobiography_paragraph {
+  font-family: "Gotu", sans-serif;
+  font-size: 20px;
+  color: blue;
+}
+.third_autobiography_paragraph {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 30px;
+  color: blueviolet;
+}
+.edit_word_one {
+  text-transform: uppercase;
+}
+.edit_word_two {
+  color: chartreuse;
+}
+.edit_word_three {
+  background-color: black;
+}
+.edit_word_four {
+  position: relative;
+  top: 7px;
+}
+.edit_word_five {
+  letter-spacing: 5px;
+}
+.edit_word_six {
+  text-shadow: 2px 2px green;
+}
+.list_for_edit {
+  list-style-type: "\00A7";
+}
+.for_edit_first_list {
+  padding-left: 40px;
+}
+.for_edit_second_list {
+  margin-left: -9px;
+  padding-left: 10px;
+}
+.for_edit_third_list {
+  padding-left: 10px;
+}
+.img_for_task2 {
+  width: 40%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
